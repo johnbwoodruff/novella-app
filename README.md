@@ -1,6 +1,8 @@
 # Novella
 
-A modern distraction-free novel writing desktop application
+A modern distraction-free novel writing desktop application.
+
+🎉 **Coming Soon** 🎉
 
 ## Download
 
